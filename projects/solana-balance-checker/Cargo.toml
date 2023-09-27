@@ -1,5 +1,5 @@
 [package]
-name = "fetch-balance"
+name = "solana-balance_checker"
 version = "0.1.0"
 edition = "2021"
 
