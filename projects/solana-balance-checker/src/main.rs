@@ -37,5 +37,5 @@ fn main() {
     let balance_sol = balance_lamports as f64 / 1_000_000_000.0;
 
     // Print the balance to the console.
-    println!("The balance of {} on {} is {:.9} SOL", address, network, balance_sol);
+    println!("The balance of {} on {}-net is {:.9} SOL", address, network, balance_sol);
 }
