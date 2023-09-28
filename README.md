@@ -1,6 +1,6 @@
 # LearningSolanaDevelopment
 
-Welcome to the **LearningSolanaDevelopment** repository 🙂! This is where I document my journey into the world of Solana development. Whether you're a novice solana developer like me, I invite you to explore this repository, learn with me, and contribute to our collective understanding of Solana.
+Welcome to the **LearningSolanaDevelopment** repository 🙂! This is where I document my journey into the world of Solana development. If you're a novice solana developer like me, I invite you to explore this repository, learn with me, and contribute to our collective understanding of Solana.
 
 ### About Solana
 
