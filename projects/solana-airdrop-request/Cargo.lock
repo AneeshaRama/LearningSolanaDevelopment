@@ -3041,7 +3041,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "solana-balance_checker"
+name = "solana-airdrop-request"
 version = "0.1.0"
 dependencies = [
  "solana-client",
