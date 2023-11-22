@@ -1,0 +1,18 @@
+[toolchain]
+
+[features]
+seeds = false
+skip-lint = false
+
+[programs.localnet]
+counter_app = "9CQ6LCyfAKcvQ8F3L8iTjYSi5dG2TLZ9zWgCK5X5VBUV"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "Devnet"
+wallet = "/home/poppy/.config/solana/id.json"
+
+[scripts]
+test = "yarn run mocha -t 1000000 tests/"
